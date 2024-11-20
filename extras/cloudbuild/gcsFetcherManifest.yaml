@@ -1,0 +1,22 @@
+{
+    "extras/cloudbuild/app_main.yaml": {
+        "sourceUrl": "gs://serverless-61363-build/cloudbuild/app_main.yaml",
+        "sha1sum": ""
+    },
+    "extras/cloudbuild/firebase_config.json": {
+        "sourceUrl": "gs://serverless-61363-build/cloudbuild/firebase_config.json",
+        "sha1sum": ""
+    },
+    "extras/cloudbuild/initFirebase.js": {
+        "sourceUrl": "gs://serverless-61363-build/cloudbuild/initFirebase.js",
+        "sha1sum": ""
+    },
+    "extras/cloudbuild/stripe.js": {
+        "sourceUrl": "gs://serverless-61363-build/cloudbuild/stripe.js",
+        "sha1sum": ""
+    },
+    "extras/cloudbuild/functions_env_vars.yaml": {
+        "sourceUrl": "gs://serverless-61363-build/cloudbuild/functions_env_vars.yaml",
+        "sha1sum": ""
+    }
+}
